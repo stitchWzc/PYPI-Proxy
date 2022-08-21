@@ -23,6 +23,6 @@ PYPI_PROXY_LOGGING_LEVEL="ERROR"
 ```
 4. Run the following to start the proxy service：
 ```bash
-systemctl status pypi-proxy.service
+systemctl start pypi-proxy.service
 ```
 5. Enjoy it all.
